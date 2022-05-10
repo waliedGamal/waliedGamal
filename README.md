@@ -2,12 +2,12 @@
 <h3 align="center">Frontend Developer"Angular"</h3>
 
 - 🏫 I’m currently working from Home
-- 
+
 - 🌱 I’m currently learning **Computer Science and Software Engineering**
 
 - 📫 How to reach me **waliedgamal78@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1tD32Vq5aFouNsZ3TvWfulsV7q4Wl7Fkt/view?usp=sharing" target="blank"> resume </a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1tD32Vq5aFouNsZ3TvWfulsV7q4Wl7Fkt/view?usp=sharing" target="_blank"> resume </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
