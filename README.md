@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Walied Gamal</h1>
 <h3 align="center">Frontend Developer"Angular"</h3>
 
-- 🏫 I’m currently working from Home
+- 🏫 I’m currently working as a Software Engineer at Huawei
 
 - 🌱 I’m currently learning **Computer Science and Software Engineering**
 
