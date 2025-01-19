@@ -1,18 +1,15 @@
 <h1 align="center">Hi 👋, I'm Walied Gamal</h1>
 <h3 align="center">Frontend Developer"Angular"</h3>
 
-- 🏫 I’m currently working as a Software Engineer at Huawei
-
-- 🌱 I’m currently learning **Computer Science and Software Engineering**
+- 🏫 I was working as a Software Engineer at Huawei
+- 🏫 I’m currently working as a Frontend Developer at DXC
+- 🌱 I’m currently learning **Software Engineering and Frontend Technologies**
 
 - 📫 How to reach me **waliedgamal78@gmail.com**
-
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1tD32Vq5aFouNsZ3TvWfulsV7q4Wl7Fkt/view?usp=sharing" target="_blank"> resume </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/walied-gamal-81049b115" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/walied-gamal-81049b115" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/walied.gamal.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/walied.gamal.7" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
